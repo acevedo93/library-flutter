@@ -1,0 +1,235 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "año": 1967,
+      "genero": "Realismo mágico"
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "año": 1949,
+      "genero": "Distopía"
+    },
+    {
+      "id": 3,
+      "titulo": "Orgullo y Prejuicio",
+      "autor": "Jane Austen",
+      "año": 1813,
+      "genero": "Novela de romance"
+    },
+    {
+      "id": 4,
+      "titulo": "El Señor de los Anillos",
+      "autor": "J.R.R. Tolkien",
+      "año": 1954,
+      "genero": "Fantasía"
+    },
+    {
+      "id": 5,
+      "titulo": "To Kill a Mockingbird",
+      "autor": "Harper Lee",
+      "año": 1960,
+      "genero": "Ficción histórica"
+    },
+    {
+      "id": 6,
+      "titulo": "El Gran Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "año": 1925,
+      "genero": "Novela"
+    },
+    {
+      "id": 7,
+      "titulo": "Moby Dick",
+      "autor": "Herman Melville",
+      "año": 1851,
+      "genero": "Aventura"
+    },
+    {
+      "id": 8,
+      "titulo": "Crimen y Castigo",
+      "autor": "Fyodor Dostoevsky",
+      "año": 1866,
+      "genero": "Ficción filosófica"
+    },
+    {
+      "id": 9,
+      "titulo": "En busca del tiempo perdido",
+      "autor": "Marcel Proust",
+      "año": 1913,
+      "genero": "Modernismo"
+    },
+    {
+      "id": 10,
+      "titulo": "Don Quijote",
+      "autor": "Miguel de Cervantes",
+      "año": 1605,
+      "genero": "Novela"
+    },
+    {
+      "id": 11,
+      "titulo": "La Divina Comedia",
+      "autor": "Dante Alighieri",
+      "año": 1320,
+      "genero": "Poesía épica"
+    },
+    {
+      "id": 12,
+      "titulo": "Hamlet",
+      "autor": "William Shakespeare",
+      "año": 1603,
+      "genero": "Tragedia"
+    },
+    {
+      "id": 13,
+      "titulo": "Ulises",
+      "autor": "James Joyce",
+      "año": 1922,
+      "genero": "Modernista"
+    },
+       {
+      "id": 14,
+      "titulo": "Anna Karenina",
+      "autor": "Leo Tolstoy",
+      "año": 1877,
+      "genero": "Novela"
+    },
+    {
+      "id": 15,
+      "titulo": "Guerra y Paz",
+      "autor": "Leo Tolstoy",
+      "año": 1869,
+      "genero": "Novela histórica"
+    },
+    {
+      "id": 16,
+      "titulo": "El proceso",
+      "autor": "Franz Kafka",
+      "año": 1925,
+      "genero": "Ficción"
+    },
+    {
+      "id": 17,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "año": 1967,
+      "genero": "Realismo mágico"
+    },
+    {
+      "id": 18,
+      "titulo": "Lo que el viento se llevó",
+      "autor": "Margaret Mitchell",
+      "año": 1936,
+      "genero": "Ficción histórica"
+    },
+    {
+      "id": 19,
+      "titulo": "Una habitación propia",
+      "autor": "Virginia Woolf",
+      "año": 1929,
+      "genero": "Ensayo"
+    },
+    {
+      "id": 20,
+      "titulo": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "año": 1955,
+      "genero": "Novela"
+    },
+    {
+      "id": 21,
+      "titulo": "El amante",
+      "autor": "Marguerite Duras",
+      "año": 1984,
+      "genero": "Autobiografía"
+    },
+    {
+      "id": 22,
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "año": 1813,
+      "genero": "Novela romántica"
+    },
+    {
+      "id": 23,
+      "titulo": "El retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "año": 1890,
+      "genero": "Novela filosófica"
+    },
+    {
+      "id": 24,
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "año": 1818,
+      "genero": "Ciencia ficción"
+    },
+    {
+      "id": 25,
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "año": 1897,
+      "genero": "Terror"
+    },
+    {
+      "id": 26,
+      "titulo": "El conde de Montecristo",
+      "autor": "Alexandre Dumas",
+      "año": 1844,
+      "genero": "Aventura"
+    },
+    {
+      "id": 27,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "año": "8 AC",
+      "genero": "Épica"
+    },
+    {
+      "id": 28,
+      "titulo": "El extranjero",
+      "autor": "Albert Camus",
+      "año": 1942,
+      "genero": "Existencialismo"
+    },
+    {
+      "id": 29,
+      "titulo": "La Ilíada",
+      "autor": "Homero",
+      "año": "8 AC",
+      "genero": "Épica"
+    },
+    {
+      "id": 30,
+      "titulo": "Matar a un ruiseñor",
+      "autor": "Harper Lee",
+      "año": 1960,
+      "genero": "Drama"
+    },
+    {
+      "id": 31,
+      "titulo": "El Gran Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "año": 1925,
+      "genero": "Novela"
+    },
+    {
+      "id": 32,
+      "titulo": "Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "año": 1847,
+      "genero": "Novela romántica"
+    },
+    {
+      "id": 33,
+      "titulo": "Wuthering Heights",
+      "autor": "Emily Brontë",
+      "año": 1847,
+      "genero": "Novela gótica"
+    }
+  ]
+}
